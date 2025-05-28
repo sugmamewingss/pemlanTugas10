@@ -1,5 +1,3 @@
-package praktikum10;
-
 class Pemain {
     String tim;
     int no;
